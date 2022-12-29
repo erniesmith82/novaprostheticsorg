@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/novaprostheticsorg/static/css/main.4324b5c2.css",
+    "main.js": "/novaprostheticsorg/static/js/main.dc84b864.js",
+    "index.html": "/novaprostheticsorg/index.html",
+    "main.4324b5c2.css.map": "/novaprostheticsorg/static/css/main.4324b5c2.css.map",
+    "main.dc84b864.js.map": "/novaprostheticsorg/static/js/main.dc84b864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4324b5c2.css",
+    "static/js/main.dc84b864.js"
+  ]
+}
